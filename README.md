@@ -1,9 +1,9 @@
 # learnFlutter1
 
 ## Pages
-Login Page: login by input 4 digits with no validate and redirect to home page
-Home Page: contents the contactor list which is loading data from JSON file
-Detail Page: the detail info of contactor
+- Login Page: login by input 4 digits with no validate and redirect to home page
+- Home Page: contents the contactor list which is loading data from JSON file
+- Detail Page: the detail info of contactor
 
 
 
